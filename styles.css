@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(223, 241, 241);
+}
+
+.cal{
+    background-color: rgb(34, 102, 102);
+    width:fit-content;
+    border-style: groove;
+    margin: auto;
+    margin-top: 200px;
+    position: static;
+    }
+#result{
+    height: 70px;
+}
+.key{
+    width: 80px;
+    height: 80px;
+    text-decoration: solid;
+    font-weight: bolder;
+    font-size: x-large;
+    border-radius: 5%;
+}
